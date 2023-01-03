@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fee.yamamoto@gmail.com**
 
-- 📄 Know about my experiences [encurtador.com.br/agnE1](encurtador.com.br/agnE1)
+- 📄 Know about my experiences [CV - Resume](encurtador.com.br/agnE1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
