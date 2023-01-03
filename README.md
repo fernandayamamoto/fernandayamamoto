@@ -1,3 +1,4 @@
+<img src=https://www.canva.com/design/DAFUwjOTNhE/FivrFRatnrtWYe2Ii7uX-w/view?utm_content=DAFUwjOTNhE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Fernanda Yamamoto</h1>
 <h3 align="center">A passionate Full Stack developer from Brasil</h3>
 
@@ -7,7 +8,7 @@
 
 - 💬 Ask me about **Ruby on rails :D**
 
-- 📫 How to reach me **Email**(fee.yamamoto@gmail.com)
+- 📫 How to reach me **fee.yamamoto@gmail.com**
 
 - 📄 Know about my experiences [CV - Resume](encurtador.com.br/agnE1)
 
