@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Ruby on rails :D**
 
-- 📫 How to reach me **fee.yamamoto@gmail.com**
+- 📫 How to reach me **Email**(fee.yamamoto@gmail.com)
 
 - 📄 Know about my experiences [CV - Resume](encurtador.com.br/agnE1)
 
