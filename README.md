@@ -1,4 +1,3 @@
-<img src=https://www.canva.com/design/DAFWnPeFkeg/PEpB3l2ocH39yoo4ixLNyQ/view?utm_content=DAFWnPeFkeg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Fernanda Yamamoto</h1>
 <h3 align="center">A passionate Full Stack developer from Brasil</h3>
 
