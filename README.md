@@ -1,5 +1,4 @@
-<img src="https://drive.google.com/file/d/1F2R4imLah_jJmXBkr_fY_chtkmJ_6woa/view?usp=share_link"/>
-<h1 align="center">Hi 👋, I'm Fernanda Yamamoto</h1>
+<img src="https://res.cloudinary.com/dwvglguvp/image/upload/v1672840036/puts_Hello_World_I_cx44er.jpg" height="450" width=100%/>
 <h3 align="center">A passionate Full Stack developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandayamamoto&label=Profile%20views&color=0e75b6&style=flat" alt="fernandayamamoto" /> </p>
@@ -66,12 +65,12 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 </p>
-<div dir="auto">
+<div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandayamamoto&show_icons=true&locale=en&layout=compact" alt="fernandayamamoto" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandayamamoto&show_icons=true&locale=en&layout=compact" alt="fernandayamamoto"/>
   </p>
- </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandayamamoto&show_icons=true&locale=en" alt="fernandayamamoto" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandayamamoto&show_icons=true&locale=en" alt="fernandayamamoto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandayamamoto&" alt="fernandayamamoto" /></p>
+ </div>
+
