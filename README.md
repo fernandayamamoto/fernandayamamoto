@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1F2R4imLah_jJmXBkr_fY_chtkmJ_6woa/view?usp=share_link"/>
 <h1 align="center">Hi 👋, I'm Fernanda Yamamoto</h1>
 <h3 align="center">A passionate Full Stack developer from Brasil</h3>
 
