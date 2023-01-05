@@ -69,12 +69,12 @@
   <br>
   </br>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandayamamoto&show_icons=true&locale=en&layout=compact" alt="fernandayamamoto"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandayamamoto&show_icons=true&locale=en&layout=compact" alt="fernandayamamoto"/>
   </p>
  
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fernandayamamoto&show_icons=true&locale=en" alt="fernandayamamoto" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=fernandayamamoto&show_icons=true&locale=en" alt="fernandayamamoto" /></p>
   
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandayamamoto&" alt="fernandayamamoto" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandayamamoto&" alt="fernandayamamoto" /></p>
  </div>
 
