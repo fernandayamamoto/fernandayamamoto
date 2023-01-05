@@ -73,8 +73,7 @@
   </p>
  
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fernandayamamoto&show_icons=true&locale=en" alt="fernandayamamoto" /></p>
-  <br>
-  </br>
+  
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandayamamoto&" alt="fernandayamamoto" /></p>
  </div>
