@@ -65,16 +65,8 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a>
 </p>
-<div align="center">
-  <br>
-  </br>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandayamamoto&show_icons=true&locale=en&layout=compact" alt="fernandayamamoto"/>
-  </p>
  
-  <p><img src="https://github-readme-stats.vercel.app/api?username=fernandayamamoto&show_icons=true&locale=en" alt="fernandayamamoto" /></p>
-  
-<br> <br>
+<div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandayamamoto&" alt="fernandayamamoto" /></p>
  </div>
 
