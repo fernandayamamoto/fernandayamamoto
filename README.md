@@ -66,7 +66,7 @@
   </a>
 </p>
  
-<div align="center">
+<div align="center" background-color="black">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandayamamoto&" alt="fernandayamamoto" /></p>
  </div>
 
